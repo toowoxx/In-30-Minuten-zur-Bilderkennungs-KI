@@ -1,0 +1,6 @@
+venv
+train
+val
+simple_images
+.ipynb_checkpoints
+.idea
